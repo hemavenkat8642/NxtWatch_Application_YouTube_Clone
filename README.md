@@ -1,24 +1,17 @@
-In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
+In this assignment, I built a **Nxt Watch App** by applying the concepts I have learned till now.
 
-### Refer to videos below:
+Project live link: [https://hvntnxtwatch.ccbp.tech](https://hvntnxtwatch.ccbp.tech/)
 
-**Success View** <br/>
+<details>
+<summary>Click to view credentials</summary>
 
-<div style="text-align: center;">
-     <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+- Username-1: `rahul`
+- Password-1: `rahul@2021`
 
-**Failure View** <br/>
+- Username-2: `raja`
+- Password-2: `raja@2021`
+</details>
 
-<div style="text-align: center;">
-    <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
 
 ### Design Files
 
