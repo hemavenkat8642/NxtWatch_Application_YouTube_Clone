@@ -1,6 +1,6 @@
 In this assignment, I built a **Nxt Watch App** by applying the concepts I have learned till now.
 
-Project live link: [https://hvntnxtwatch.ccbp.tech](https://hvntnxtwatch.ccbp.tech/)
+Project live link: [https://nagatejanxt7.ccbp.tech](https://nagatejanxt7.ccbp.tech/)
 
 <details>
 <summary>Click to view credentials</summary>
